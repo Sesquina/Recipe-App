@@ -7,3 +7,6 @@
 - CSS
 - JS
 
+## Live Site
+[Recipe App](https://recipegenerator22.netlify.app).
+
